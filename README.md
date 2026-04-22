@@ -131,14 +131,7 @@ wpl-project/
 ├── logout.php              # Session teardown
 ├── voltgrid.sql            # Database schema + seed data
 ├── migrate_sessions.sql    # Migration for existing DBs
-├── compare/                # Experiment 9 — Manual vs AI code
-│   ├── manual/
-│   ├── ai_generated/
-│   └── COMPARISON_REPORT.md
-└── tests/
-    ├── VoltGridTest.php
-    ├── phpunit.xml
-    └── composer.json
+
 ```
 
 ---
